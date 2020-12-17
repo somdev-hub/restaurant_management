@@ -1,0 +1,2 @@
+# restaurant_management
+Restaurant management System is a genuine project developed by Somdev Behera and Soumya Ranjan Barik for their academic year computer science project. This project is aimed to be used for the betterment of the targeted audience. Restaurant management system is developed using python and MySql date bases. This project collects information from the user and stores the same in the MySql database. This project is also equipped with a calculator developed by Somdev Behera. This project is completely opensource and is not subjected to earn any amount.
